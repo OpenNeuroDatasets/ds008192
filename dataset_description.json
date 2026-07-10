@@ -1,0 +1,17 @@
+{
+    "Name": "InterGenSynch",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "License": "CC BY 4.0",
+    "Authors": [
+        "Ryssa Moffat",
+        "Emily S. Cross"
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "MNE-BIDS",
+            "Version": "0.17.0",
+            "CodeURL": "https://mne.tools/mne-bids/"
+        }
+    ]
+}
