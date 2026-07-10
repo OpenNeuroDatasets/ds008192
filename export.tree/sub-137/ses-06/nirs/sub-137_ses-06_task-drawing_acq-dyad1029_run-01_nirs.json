@@ -1,0 +1,18 @@
+{
+    "TaskName": "drawing",
+    "Manufacturer": "SNIRF",
+    "PowerLineFrequency": "n/a",
+    "SamplingFrequency": 5.235602094240838,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 1134.349,
+    "RecordingType": "continuous",
+    "EEGChannelCount": 0,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 0,
+    "TriggerChannelCount": 0,
+    "NIRSChannelCount": 52,
+    "NIRSSourceOptodeCount": 16,
+    "NIRSDetectorOptodeCount": 10
+}
