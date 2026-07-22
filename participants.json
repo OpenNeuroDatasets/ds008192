@@ -12,5 +12,10 @@
             "F": "female",
             "M": "male"
         }
+    },
+    "head_circumference": {
+        "Description": "Circumference of the participant's head",
+        "Units": "cm",
+        "Type": "numeric"
     }
 }
