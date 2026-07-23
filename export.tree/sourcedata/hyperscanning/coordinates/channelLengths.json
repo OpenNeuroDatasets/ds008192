@@ -1,0 +1,12 @@
+{
+    "channel": {
+        "Description": "The label for a channel composed of two optodes, one source and one detector. Pattern is source number (Sx) then detector number (Dx) separated by an underscore (_).",
+        "Values": "e.g. S1_D1",
+        "Type": "categorical"
+    },
+    "distance": {
+        "Description": "Distance between digitised positions of source and detector optode in mm.",
+        "Values": "4.98-56.98",
+        "Type": "continuous"
+    }
+}

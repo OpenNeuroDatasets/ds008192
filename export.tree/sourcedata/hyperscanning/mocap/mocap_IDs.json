@@ -1,0 +1,22 @@
+{
+    "dyadID": {
+        "Description": "ID number for each dyad. Same generation dyads are in range 1001-1030 and intergenerational dyads are in range 2001-2031.",
+        "Values": "1001-1030, 2001-2031",
+        "Type": "categorical"
+    },
+    "session": {
+        "Description": "Session number",
+        "Values": "1-6",
+        "Type": "continuous"
+    },
+    "pID1": {
+        "Description": "Participant ID of person in the left half of the video. Younger adults were assigned IDs in ranges 101-146 or 201-245 and older adults were assigned IDs in range 301-331.",
+        "Values": "101-146, 201-245, 301-331",
+        "Type": "categorical"
+    },
+    "pID2": {
+        "Description": "Participant ID of person in the right half of the video. Younger adults were assigned IDs in ranges 101-146 or 201-245 and older adults were assigned IDs in range 301-331.",
+        "Values": "101-146, 201-245, 301-331",
+        "Type": "categorical"
+    }
+}
