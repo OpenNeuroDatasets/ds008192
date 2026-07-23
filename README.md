@@ -1,4 +1,4 @@
-# InterGenSynch Dataset
+# InterGenSynchrony Dataset
 
 ---
 
@@ -12,7 +12,7 @@ development and collaboration.
 [Social Brain Sciences Lab](https://sbs.ethz.ch/), ETH Zurich
 
 ## Citation
-Moffat, R., & Cross, E. S. (2026). *InterGenSynchrony Dataset* [Data set]. OpenNeuro.
+Moffat, R., & Cross, E. S. (2026). *InterGenSynchrony Dataset* [Data set]. OpenNeuro. [https://openneuro.org/datasets/ds008192/](https://openneuro.org/datasets/ds008192/)
 
 
 ## Licence
