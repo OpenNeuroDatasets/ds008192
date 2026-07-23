@@ -1,0 +1,26 @@
+{
+    "Name": "InterGenSynch",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Ryssa Moffat",
+        "Emily S. Cross"
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "MNE-BIDS",
+            "Version": "0.17.0",
+            "CodeURL": "https://mne.tools/mne-bids/"
+        }
+    ],
+    "DatasetDOI": "",
+
+  "SourceDatasets": [
+    {
+        "URL": "https://openneuro.org/datasets/ds008192",
+        "DOI": "",
+        "Version": ""
+    }
+]
+}
