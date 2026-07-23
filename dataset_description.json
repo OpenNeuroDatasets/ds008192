@@ -19,5 +19,8 @@
     "HowToAcknowledge": "Moffat, R., & Cross, E. S. (2026). InterGenSynchrony Dataset [Data set]. OpenNeuro. https://openneuro.org/datasets/ds008192\n",
     "Funding": [
         "Two Cortivision Photon Cap devices were provided to RM through the Cortivision Pathfinder Program (grant number CPP-2023/09/01). Oil pastels were provided to RM by Caran D’Ache (agreement number 712517). RM and ESC were supported by the Social Brain Sciences Lab at ETH Zurich."
+    ],
+    "EthicsApprovals": [
+        "Ethical approval was obtained from the Ethics Committee of ETH Zurich (Ref: 2024-N-265) and the Ethics Committee of ETH Zurich (Ref: 2024-N-265). "
     ]
 }
