@@ -15,5 +15,8 @@
     },
     "trial_type": {
         "Description": "The type, category, or name of the event."
+    },
+    "StimulusPresentation": {
+        "SoftwareName": "PsychoPy"
     }
 }
