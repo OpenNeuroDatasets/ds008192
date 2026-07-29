@@ -14,6 +14,13 @@
             "CodeURL": "https://mne.tools/mne-bids/"
         }
     ],
+    "SourceDatasets": [
+      {
+        "URL": "https://openneuro.org/datasets/ds008192",
+        "DOI": "doi:10.18112/openneuro.ds008192.v1.0.2",
+        "Version": ""
+      }
+    ],
     "DatasetDOI": "doi:10.18112/openneuro.ds008192.v1.0.2",
     "Acknowledgements": "We would like to emphasise how thankful we are to the research and student assistants who helped collect and prepare the InterGen Synchrony Dataset. We thank Tessa Portier and Medea Häuselmann for their assistance with data collection. We thank Luca Naudszus for contributing to pose estimation. We thank Linda Fanconi for communicating with prospective participants and scheduling sessions. We thank Alistair Gadola for coding participant behaviour from videos. We thank Fanny Mougel for editing the digitised drawings. We thank Greta Bramow for creating the web-based experiment to collect external ratings and correcting text-based qualitative data. We thank Alistair Gadola and Filiz Kanele for correcting interview transcripts. We thank Ahmed Eldably for facilitating the transformation of the various data types into a BIDS compatible format. We thank Chris Markiewicz and the OpenNeuro Team for providing the platform and technical support needed to publish this dataset. ",
     "HowToAcknowledge": "Moffat, R., & Cross, E. S. (2026). InterGenSynchrony Dataset [Data set]. OpenNeuro. https://openneuro.org/datasets/ds008192\n",
