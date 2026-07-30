@@ -1,0 +1,32 @@
+{
+    "session": {
+        "Description": "Session number",
+        "Values": "1-6",
+        "Type": "continuous"
+    },
+    "pID": {
+        "Description": "ID number for each participant. Younger adults were assigned IDs in ranges 101-146 or 201-245 and older adults were assigned IDs in range 301-331.",
+        "Values": "101-146, 201-245, 301-331",
+        "Type": "categorical"
+    },
+    "dyadID": {
+        "Description": "ID number for each dyad. Same generation dyads are in range 1001-1030 and intergenerational dyads are in range 2001-2031.",
+        "Values": "1001-1030, 2001-2031",
+        "Type": "categorical"
+    },
+    "self_other": {
+        "Description": "Other-in-self scale to measure perceived social closeness: Aron et al. (1992). Inclusion of other in the self scale and the structure of interpersonal closeness.",
+        "ItemENG": "Which picture best describes your relationship with your partner:",
+        "ItemGER": "Welches Bild stellt Ihre Beziehung zu Ihrem/Ihrer PartnerIn am Passendsten dar:",
+        "Levels": {
+            "1": "no overlap",
+            "2": "little overlap",
+            "3": "some overlap",
+            "4": "equal overlap",
+            "5": "strong overlap",
+            "6": "very strong overlap",
+            "7": "most overlap"
+        },
+        "Type": "ordinal"
+    }
+}
