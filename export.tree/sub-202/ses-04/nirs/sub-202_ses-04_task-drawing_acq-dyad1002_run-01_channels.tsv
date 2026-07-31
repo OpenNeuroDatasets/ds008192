@@ -1,0 +1,53 @@
+name	type	source	detector	wavelength_nominal	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description	short_channel
+S1_D2 760	NIRSCWAMPLITUDE	S1	D2	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	bad	Visual inspection: major motion artifacts and/or no cardiac oscillation	false
+S2_D1 760	NIRSCWAMPLITUDE	S2	D1	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S2_D2 760	NIRSCWAMPLITUDE	S2	D2	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	bad	Visual inspection: major motion artifacts and/or no cardiac oscillation	false
+S2_D3 760	NIRSCWAMPLITUDE	S2	D3	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S3_D1 760	NIRSCWAMPLITUDE	S3	D1	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S3_D3 760	NIRSCWAMPLITUDE	S3	D3	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S4_D4 760	NIRSCWAMPLITUDE	S4	D4	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S4_D5 760	NIRSCWAMPLITUDE	S4	D5	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S5_D4 760	NIRSCWAMPLITUDE	S5	D4	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S5_D5 760	NIRSCWAMPLITUDE	S5	D5	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S6_D4 760	NIRSCWAMPLITUDE	S6	D4	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S7_D6 760	NIRSCWAMPLITUDE	S7	D6	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	bad	Visual inspection: major motion artifacts and/or no cardiac oscillation	false
+S7_D7 760	NIRSCWAMPLITUDE	S7	D7	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	bad	Visual inspection: major motion artifacts and/or no cardiac oscillation	false
+S8_D6 760	NIRSCWAMPLITUDE	S8	D6	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	bad	Visual inspection: major motion artifacts and/or no cardiac oscillation	false
+S8_D7 760	NIRSCWAMPLITUDE	S8	D7	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S8_D8 760	NIRSCWAMPLITUDE	S8	D8	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S9_D8 760	NIRSCWAMPLITUDE	S9	D8	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	bad	Visual inspection: major motion artifacts and/or no cardiac oscillation	false
+S10_D9 760	NIRSCWAMPLITUDE	S10	D9	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S10_D10 760	NIRSCWAMPLITUDE	S10	D10	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S11_D9 760	NIRSCWAMPLITUDE	S11	D9	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S11_D10 760	NIRSCWAMPLITUDE	S11	D10	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	bad	Visual inspection: major motion artifacts and/or no cardiac oscillation	false
+S12_D10 760	NIRSCWAMPLITUDE	S12	D10	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S13_D2 760	NIRSCWAMPLITUDE	S13	D2	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	bad	Visual inspection: major motion artifacts and/or no cardiac oscillation	true
+S14_D8 760	NIRSCWAMPLITUDE	S14	D8	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		true
+S15_D5 760	NIRSCWAMPLITUDE	S15	D5	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		true
+S16_D9 760	NIRSCWAMPLITUDE	S16	D9	760.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	bad	Visual inspection: major motion artifacts and/or no cardiac oscillation	true
+S1_D2 850	NIRSCWAMPLITUDE	S1	D2	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	bad	Visual inspection: major motion artifacts and/or no cardiac oscillation	false
+S2_D1 850	NIRSCWAMPLITUDE	S2	D1	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S2_D2 850	NIRSCWAMPLITUDE	S2	D2	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	bad	Visual inspection: major motion artifacts and/or no cardiac oscillation	false
+S2_D3 850	NIRSCWAMPLITUDE	S2	D3	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S3_D1 850	NIRSCWAMPLITUDE	S3	D1	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S3_D3 850	NIRSCWAMPLITUDE	S3	D3	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S4_D4 850	NIRSCWAMPLITUDE	S4	D4	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S4_D5 850	NIRSCWAMPLITUDE	S4	D5	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S5_D4 850	NIRSCWAMPLITUDE	S5	D4	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S5_D5 850	NIRSCWAMPLITUDE	S5	D5	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S6_D4 850	NIRSCWAMPLITUDE	S6	D4	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S7_D6 850	NIRSCWAMPLITUDE	S7	D6	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	bad	Visual inspection: major motion artifacts and/or no cardiac oscillation	false
+S7_D7 850	NIRSCWAMPLITUDE	S7	D7	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	bad	Visual inspection: major motion artifacts and/or no cardiac oscillation	false
+S8_D6 850	NIRSCWAMPLITUDE	S8	D6	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	bad	Visual inspection: major motion artifacts and/or no cardiac oscillation	false
+S8_D7 850	NIRSCWAMPLITUDE	S8	D7	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S8_D8 850	NIRSCWAMPLITUDE	S8	D8	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S9_D8 850	NIRSCWAMPLITUDE	S9	D8	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	bad	Visual inspection: major motion artifacts and/or no cardiac oscillation	false
+S10_D9 850	NIRSCWAMPLITUDE	S10	D9	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S10_D10 850	NIRSCWAMPLITUDE	S10	D10	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S11_D9 850	NIRSCWAMPLITUDE	S11	D9	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S11_D10 850	NIRSCWAMPLITUDE	S11	D10	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	bad	Visual inspection: major motion artifacts and/or no cardiac oscillation	false
+S12_D10 850	NIRSCWAMPLITUDE	S12	D10	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		false
+S13_D2 850	NIRSCWAMPLITUDE	S13	D2	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	bad	Visual inspection: major motion artifacts and/or no cardiac oscillation	true
+S14_D8 850	NIRSCWAMPLITUDE	S14	D8	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		true
+S15_D5 850	NIRSCWAMPLITUDE	S15	D5	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	good		true
+S16_D9 850	NIRSCWAMPLITUDE	S16	D9	850.0	V	0.0	2.4875621890547266	Near Infrared Spectroscopy (continuous wave)	4.975124378109453	bad	Visual inspection: major motion artifacts and/or no cardiac oscillation	true
