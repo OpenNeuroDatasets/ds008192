@@ -21,7 +21,7 @@
             "Version": ""
         }
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds008192.v1.0.4",
+    "DatasetDOI": "doi:10.18112/openneuro.ds008192.v1.0.5",
     "Acknowledgements": "We would like to emphasise how thankful we are to the research and student assistants who helped collect and prepare the InterGen Synchrony Dataset. We thank Tessa Portier and Medea Häuselmann for their assistance with data collection. We thank Luca Naudszus for contributing to pose estimation. We thank Linda Fanconi for communicating with prospective participants and scheduling sessions. We thank Alistair Gadola for coding participant behaviour from videos. We thank Fanny Mougel for editing the digitised drawings. We thank Greta Bramow for creating the web-based experiment to collect external ratings and correcting text-based qualitative data. We thank Alistair Gadola and Filiz Kanele for correcting interview transcripts. We thank Ahmed Eldably for facilitating the transformation of the various data types into a BIDS compatible format. We thank Chris Markiewicz and the OpenNeuro Team for providing the platform and technical support needed to publish this dataset. ",
     "HowToAcknowledge": "Moffat, R., & Cross, E. S. (2026). InterGenSynchrony Dataset [Data set]. OpenNeuro. https://openneuro.org/datasets/ds008192\n",
     "Funding": [
@@ -37,5 +37,5 @@
         "Moffat, R., Naudszus, L. A., & Cross, E. S. (2026). Cardiac synchrony during collaborative drawing: A longitudinal comparison of same generation and intergenerational dyads. Annals of the New York Academy of Sciences, 1558(1), e70272. https://doi.org/10.1111/nyas.70272",
         "Moffat, R., Casale, C. E., & Cross, E. S. (2024). Mobile fNIRS for exploring inter-brain synchrony across generations and time. Frontiers in Neuroergonomics, 4. https://doi.org/10.3389/fnrgo.2023.1260738"
     ],
-  "HEDVersion": "8.4.0"
+    "HEDVersion": "8.4.0"
 }
