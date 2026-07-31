@@ -1,0 +1,75 @@
+{
+    "dyadID": {
+        "Description": "ID number for each dyad. Same generation dyads are in range 1001-1030 and intergenerational dyads are in range 2001-2031.",
+        "Values": "1001-1030, 2001-2031",
+        "Type": "categorical"
+    },
+    "session": {
+        "Description": "Session number",
+        "Values": "1-6",
+        "Type": "continuous"
+    },
+    "task": {
+        "Description": "The task being completed by the dyad.",
+        "Levels": {
+            "1": "drawing alone",
+            "2": "1st joint drawing",
+            "3": "2nd joint drawing",
+            "4": "collaborative activity"
+        },
+        "Type": "categorical"
+    },
+    "nFrame": {
+        "Description": "Number of frame in video recording.",
+        "Values": "1-18000",
+        "Type": "continuous"
+    },
+    "bodypart": {
+        "Description": "Name of body part to which coordinates belong.",
+        "Levels": {
+            "Nose": "Nose",
+            "Neck": "Neck",
+            "RShoulder": "Right shoulder",
+            "LShoulder": "Left shoulder",
+            "RElbow": "Right elbow",
+            "LElbow": "Left elbow",
+            "RWrist": "Right wrist",
+            "LWrist": "Left wrist",
+            "REye": "Right eye",
+            "LEye": "Left eye",
+            "REar": "Right ear",
+            "LEar": "Left ear"
+        },
+        "Type": "categorical"
+    },
+    "x_p1": {
+        "Description": "X coordinate (in pixels) of given body part belonging to participant 1 of a given dyad.",
+        "Values": "50-1573",
+        "Type": "continuous"
+    },
+    "y_p1": {
+        "Description": "Y coordinate (in pixels) of given body part belonging to participant 1 of a given dyad.",
+        "Values": "59-1075",
+        "Type": "continuous"
+    },
+    "c_p1": {
+        "Description": "Level of confidence in given coordinates pair (x and y) for participant 1 returned by the open pose model.",
+        "Values": "0.05-1.02",
+        "Type": "continuous"
+    },
+    "x_p2": {
+        "Description": "X coordinate (in pixels) of given body part belonging to participant 2 of a given dyad.",
+        "Values": "191-1923",
+        "Type": "continuous"
+    },
+    "y_p2": {
+        "Description": "Y coordinate (in pixels) of given body part belonging to participant 2 of a given dyad.",
+        "Values": "6-1075",
+        "Type": "continuous"
+    },
+    "c_p2": {
+        "Description": "Level of confidence in given coordinates pair (x and y) for participant 2 returned by the open pose model.",
+        "Values": "0.05-1.02",
+        "Type": "continuous"
+    }
+}
