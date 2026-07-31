@@ -1,0 +1,69 @@
+{
+    "raterID": {
+        "Description": "ID for each rater recruited on Prolific.",
+        "Values": "1-103",
+        "Type": "categorical"
+    },
+    "raterSet": {
+        "Description": "Round of recruitment on Prolific.",
+        "Values": "1-6",
+        "Type": "categorical"
+    },
+    "drawingID": {
+        "Description": "ID of the co-drawn drawing comprised of dyadID, drawingN, and session.",
+        "Values": "alphanumeric",
+        "Type": "categorical"
+    },
+    "dyadID": {
+        "Description": "ID number of dyad that drew the drawing. Same generation dyads are in range 1001-1030 and intergenerational dyads are in range 2001-2031.",
+        "Values": "1001-1030, 2001-2031",
+        "Type": "categorical"
+    },
+    "pID1": {
+        "Description": "Participant ID of one dyad member, who drew the drawing. Younger adults were assigned IDs in ranges 101-146 or 201-245 and older adults were assigned IDs in range 301-331.",
+        "Values": "101-146, 201-245, 301-331",
+        "Type": "categorical"
+    },
+    "pID2": {
+        "Description": "Participant ID of second dyad member, who drew the drawing.Younger adults were assigned IDs in ranges 101-146 or 201-245 and older adults were assigned IDs in range 301-331.",
+        "Values": "101-146, 201-245, 301-331",
+        "Type": "categorical"
+    },
+    "session": {
+        "Description": "Session number",
+        "Values": "1-6",
+        "Type": "continuous"
+    },
+    "drawingN": {
+        "Description": "Number of drawing, 1 indicates first drawing, 2 indicates second drawing in a session.",
+        "Values": "1-2",
+        "Type": "categorical"
+    },
+    "elements": {
+        "Description": "Subjective rating of harmony between elements in the drawing, rated using a sliding scale.",
+        "ItemWording": "Elements of figures in the drawing",
+        "Levels": {
+            "0": "Entirely independent",
+            "100": "Entirely coordinated"
+        },
+        "Type": "continuous"
+    },
+    "space": {
+        "Description": "Subjective rating of the use of space in the drawing, rated using a sliding scale.",
+        "ItemWording": "Use of space in the drawing",
+        "Levels": {
+            "0": "Divided",
+            "100": "Unified"
+        },
+        "Type": "continuous"
+    },
+    "style": {
+        "Description": "Subjective rating of the style of the drawing, rated using a sliding scale.",
+        "ItemWording": "Style of the drawing",
+        "Levels": {
+            "0": "Representational",
+            "100": "Abstract"
+        },
+        "Type": "continuous"
+    }
+}
